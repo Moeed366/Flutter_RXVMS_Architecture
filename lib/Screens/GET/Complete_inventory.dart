@@ -1,3 +1,4 @@
+/*
 import 'package:asasa_estate/AppLayer/Streaming/Observer.dart';
 import 'package:asasa_estate/AppLayer/Streaming/Provider.dart';
 import 'package:dropdown_button2/dropdown_button2.dart';
@@ -1063,7 +1064,7 @@ if (screendata0[i].purchaseStatus !="sold") {
                             ],
                           ),
                         ),
-                        /*Material(
+Material(
                       elevation: 2.0,
 
                       child: TextFormField(
@@ -1079,7 +1080,8 @@ if (screendata0[i].purchaseStatus !="sold") {
                                 borderSide: BorderSide(color: Colors.white, width: 3.0))
                         ),
                       ),
-                    ),*/
+                    ),
+
                         Padding(
                           padding: EdgeInsets.symmetric(
                                vertical: 10.h),
@@ -1986,3 +1988,4 @@ if (screendata0[i].purchaseStatus !="sold") {
 // },
 //
 // /
+*/

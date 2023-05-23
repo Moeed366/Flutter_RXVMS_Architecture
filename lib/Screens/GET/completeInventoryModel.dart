@@ -1,3 +1,4 @@
+/*
 class CompleteInventroyModel {
   bool? success;
   List<Data>? data;
@@ -339,3 +340,4 @@ class Extras {
     return data;
   }
 }
+*/

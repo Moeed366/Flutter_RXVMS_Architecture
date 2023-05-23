@@ -1,3 +1,4 @@
+/*
 import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
@@ -32,14 +33,16 @@ class CompleteInventoryService {
   //  String content = response.body;
    // Universal.printWrapped("-------------------${content}");
     Map<String, dynamic> map = jsonDecode(response.body);
-  /*  Get.snackbar(
+  */
+/*  Get.snackbar(
       "${response.body}",
       "=====",
       dismissDirection: DismissDirection.horizontal,
       isDismissible: true,
       backgroundColor: MyAppColors.orangcolors,
       duration: Duration(seconds: 5),
-    );*/
+    );*//*
+
     print("====================================${response.body}");
     List<CompleteInventroyModel> collection = List.empty(growable: true);
     collection.clear();
@@ -59,6 +62,7 @@ class CompleteInventoryService {
 
 
 
+*/
 /*
   late ApiService apiService =
   ApiService(networkClient: Get.put(NetworkClient()));
@@ -78,5 +82,7 @@ class CompleteInventoryService {
     } else {}
 
     return list;
-  }*/
+  }*//*
+
 }
+*/

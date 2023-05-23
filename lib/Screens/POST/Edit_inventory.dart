@@ -1,3 +1,4 @@
+/*
 import 'package:asasa_estate/Bottom_bar.dart';
 import 'package:asasa_estate/Screens/Profile/Profile_screen.dart';
 import 'package:contacts_service/contacts_service.dart';
@@ -410,6 +411,7 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                               )
                             ]),
                       ),
+*/
 /*
                       SizedBox(height: 10),
                       Container(
@@ -475,8 +477,10 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                                 ),
                               ),
                             ]),
-                      ),*/
-                      /*SizedBox(height: 10),
+                      ),*//*
+
+                      */
+/*SizedBox(height: 10),
                       Container(
                         height: 170.h,
                         width: double.infinity,
@@ -639,7 +643,8 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                                 ],
                               )
                             ]),
-                      )*/
+                      )*//*
+
                     ],
                   ),
                 ),
@@ -1152,7 +1157,8 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                   ),
                 ),
                 ///////////////////////////////////////////////////////////////////
-              /*  SizedBox(height: 10),
+              */
+/*  SizedBox(height: 10),
                 Container(
                   height: 190.h,
                   width: double.infinity,
@@ -1290,7 +1296,8 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                           ),
                         ),
                       ]),
-                ),*/
+                ),*//*
+
                 SizedBox(height: 10),
                 Container(
                   width: double.infinity,
@@ -1336,7 +1343,8 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                     ),
                   ),
                 ),
-              /*  SizedBox(height: 10),
+              */
+/*  SizedBox(height: 10),
                 Container(
                   height: 190.h,
                   width: double.infinity,
@@ -1416,7 +1424,8 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
                           ],
                         ),
                       ]),
-                ),*/
+                ),*//*
+
                 SizedBox(height: 10),
                 Container(
                   width: double.infinity,
@@ -1690,3 +1699,4 @@ print(",,,,,,,,,,,,,,widget.dataList.category.toString(),,,,,,,,,,,,,,,,,,,,,,,,
 
 
 }
+*/

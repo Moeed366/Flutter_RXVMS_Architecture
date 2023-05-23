@@ -1,3 +1,4 @@
+/*
 
 import 'package:asasa_estate/Screens/Complete_Inventory/completeInventoryService.dart';
 
@@ -24,3 +25,4 @@ class CompleteInventoryManager with Myvalidation {
     mainList.listen((value) => _main.addStream(mainList));
   }
 }
+*/
