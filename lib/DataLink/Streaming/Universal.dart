@@ -34,7 +34,7 @@ class Universal extends GetxController {
 
 ///=================================register All Managers of UI========================================
   Universal() {
-    //login(CourseManager, CourseManager());
+
    //  register(CompleteInventoryManager, CompleteInventoryManager());
     // register(LogOutManager, LogOutManager());
     // register(LoginFormManager, LoginFormManager());
@@ -50,7 +50,7 @@ class Universal extends GetxController {
     // register(ProfileManager, ProfileManager());
 
 
-// register managers
+     // register managers
   }
 
   static printWrapped(String text) {

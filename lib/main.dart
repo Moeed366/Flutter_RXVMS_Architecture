@@ -1,7 +1,7 @@
 
 
 import 'dart:io';
-
+import 'package:provider/provider.dart';
 
 import 'package:flutter/material.dart';
 
@@ -41,13 +41,13 @@ class MyApp extends StatelessWidget {
           child: GetMaterialApp(
             debugShowCheckedModeBanner: false,
             title: 'First Method',
-          //  theme: Provider.of<ThemeModel>(context).themeData,                 //when need themeing
-            theme: ThemeData(
+            theme: Provider.of<ThemeModel>(context).themeData,                 //when need themeing
+           /* theme: ThemeData(
               primarySwatch: Colors.red,
               textTheme: Typography.englishLike2018.apply(fontSizeFactor: 1.sp),
 
-            ),
-            home:  MyWidget(),
+            ),*/
+            home:  TestingScreen(),
           ),
         );
       },

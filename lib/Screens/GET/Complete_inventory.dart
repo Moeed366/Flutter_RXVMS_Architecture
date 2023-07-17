@@ -60,8 +60,7 @@ class _Complete_inventoryState extends State<Complete_inventory> {
   final TextEditingController SectorController = TextEditingController();
   @override
   Widget build(BuildContext context) {
-    CompleteInventoryManager completeInventoryManager =
-    Provider.of(context).fetch(CompleteInventoryManager);
+    CompleteInventoryManager completeInventoryManager = Provider.of(context).fetch(CompleteInventoryManager);
     //showlist==[];
 
 
